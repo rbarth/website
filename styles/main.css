@@ -1,0 +1,71 @@
+body {
+background-color: rgba(0, 139, 139, 0.2);
+margin: 0;
+}
+
+header {
+  padding-left: 7px;
+  padding-top: 5px;
+  position: absolute;
+  color: white;
+  height: 25px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+figure {
+  margin: 0;
+}
+
+p {
+text-indent:50px;
+}
+
+h1 {
+
+
+}
+
+h3 {
+ margin-top: 0;
+ margin-bottom: 0;
+
+}
+
+h4 {
+margin-top: 0;
+margin-bottom: 0;
+
+
+}
+
+img, figure, object {
+  max-width: 100%;
+}
+
+#container {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+}
+
+#mainFig {
+  width: 100%;
+}
+
+.mainSections {
+  position: relative;
+  margin: 5px 0px 5px 0px;
+  border: 1.5px solid white;
+  padding: 10px;
+}
+
+#websites {
+
+
+}
+
+#bio {
+
+}
